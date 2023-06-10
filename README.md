@@ -15,4 +15,5 @@ Para ejecutar el proyecto, simplemente ejecuten
 yarn dev
 ó
 npm run dev
-```
+```# SOLID-principles
+# SOLID-principles
